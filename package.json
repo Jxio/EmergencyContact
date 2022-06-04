@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "http://jxio.github.io/request-invitation",
+  "homepage": "http://jxio.github.io/emergencycontact",
   "scripts": {
     "start": "webpack-dev-server --no-open",
     "build": "rm -rf dist && npx webpack",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.24.0",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
