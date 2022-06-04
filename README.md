@@ -13,7 +13,11 @@ Mordern build tool: Webpack;
 
 Mordern styling approach: Semantic-ui-react
 # Back-end
+database: DynamoDB running on AWS
 
+API: AWS lambda function written in Node.js
+
+reference: https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html
 
 
 ## Requirements
