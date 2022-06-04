@@ -1,5 +1,5 @@
 ## Project Demo Address
- https://jxio.github.io/emergencyContact
+http://jxio.github.io/EmergencyContact
 
 ## Project Description
 A web application that allows user to add, update and delete contact person.
