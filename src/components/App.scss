@@ -1,0 +1,25 @@
+body {
+  padding: 10em;
+  .table-info{
+    padding-bottom: 3em;
+  }
+  #page-title {
+    line-height: calc(7vh);
+  }
+
+  #page-content {
+    margin-top: calc(40vh);
+    .huge {
+      font-size: xxx-large;
+    }
+  }
+
+  #page-footer {
+    font: Serif;
+    position: fixed;
+    bottom: 5em;
+    padding-right: 10em;
+    width: 90%;
+  }
+
+}
